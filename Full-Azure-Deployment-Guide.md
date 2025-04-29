@@ -109,11 +109,6 @@ docker rmi flynncostello/example-azure-app:latest
    - Set permissions to "Read, Write, Delete"
    - Copy the generated token immediately (it won't be shown again)
 
-```
-DOCKERHUB_USERNAME = flynncostello
-DOCKERHUB_TOKEN = (CURRENTLY ACTIVE AND YOU CAN USE)
-```
-
 ## Step 6: Set Up GitHub Secrets
 
 1. Go to your GitHub repository
