@@ -111,7 +111,7 @@ docker rmi flynncostello/example-azure-app:latest
 
 ```
 DOCKERHUB_USERNAME = flynncostello
-DOCKERHUB_TOKEN = dckr_pat_BMyAmBR0uQHuNWD7nvxwyM2yRqc (CURRENTLY ACTIVE AND YOU CAN USE)
+DOCKERHUB_TOKEN = (CURRENTLY ACTIVE AND YOU CAN USE)
 ```
 
 ## Step 6: Set Up GitHub Secrets
